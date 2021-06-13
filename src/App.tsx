@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 
 function App(): ReactElement {
   return <h1>Hello World</h1>;
